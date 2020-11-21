@@ -25,6 +25,7 @@ function next_command()
 
 function configure()
 {
+    next_command "chmod a+x configure.sh"
     next_command "rm /etc/mosquitto/mosquitto.conf"
     next_command "cat MQTT_files/mosquitto.conf >> /etc/mosquitto/mosquitto.conf"
 }
