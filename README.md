@@ -13,7 +13,7 @@
     - run configure.sh script
     - write a username and password
 
-## Team Members <a name = "authors"></a>
+## Team Members
     🚗 Johanna Nygård
     🚗 Santeri Rauhal
     🚗 Roni Kekkonen 
